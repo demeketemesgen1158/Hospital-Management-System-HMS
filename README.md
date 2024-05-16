@@ -50,6 +50,8 @@ Explore my latest project: the Hospital Management System (HMS)! This software s
 - **Manage Diagnosis Tasks and Records:** Manage tasks and records related to patient diagnosis efficiently.
 - **Chat:** Engage in communication with other users for streamlined operations.
 - **View Profile:** Access and manage diagnosis profiles easily.
+   
+Each port offers a range of features tailored to specific user roles, ensuring efficient hospital management and high-quality patient care. For detailed instructions on using each port and maximizing the benefits of the HMS, please refer to the corresponding sections in this repository.
 
 
 ## Usage
@@ -58,5 +60,34 @@ Explore my latest project: the Hospital Management System (HMS)! This software s
 2. Install dependencies using `npm install`.
 3. Run the app using `npm start`.
 4. Access the app through your web browser at `http://localhost:3000`.
-   
-Each port offers a range of features tailored to specific user roles, ensuring efficient hospital management and high-quality patient care. For detailed instructions on using each port and maximizing the benefits of the HMS, please refer to the corresponding sections in this repository.
+
+# Credentials
+
+## ADMIN
+- **Username:** admin@gmail.com
+- **Password:** admin123
+
+## ADMISSION
+- **Username:** admission@gmail.com
+- **Password:** admission123
+
+## FINANCE
+- **Username:** finance@gmail.com
+- **Password:** finance123
+
+## PHARMACY
+- **Username:** pharmacy@gmail.com
+- **Password:** pharmacy123
+
+## LABORATORY
+- **Username:** lab@gmail.com
+- **Password:** lab123
+
+## DIAGNOSIS
+- **Username:** diagnosis@gmail.com
+- **Password:** diagnosis123
+
+## OPD
+- **Username:** opd@gmail.com
+- **Password:** opd123
+```
