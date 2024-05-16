@@ -51,4 +51,12 @@ Explore my latest project: the Hospital Management System (HMS)! This software s
 - **Chat:** Engage in communication with other users for streamlined operations.
 - **View Profile:** Access and manage diagnosis profiles easily.
 
+
+## Usage
+
+1. Clone the repository to your local machine.
+2. Install dependencies using `npm install`.
+3. Run the app using `npm start`.
+4. Access the app through your web browser at `http://localhost:3000`.
+   
 Each port offers a range of features tailored to specific user roles, ensuring efficient hospital management and high-quality patient care. For detailed instructions on using each port and maximizing the benefits of the HMS, please refer to the corresponding sections in this repository.
