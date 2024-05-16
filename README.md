@@ -1,6 +1,6 @@
 # Hospital Management System (HMS)
 
-Welcome to the Hospital Management System (HMS) GitHub repository! Our HMS is a robust software solution designed to streamline the operations of healthcare facilities and enhance patient care. Below is an introduction to the main ports of the system, each offering a range of features tailored to specific user roles:
+Explore my latest project: the Hospital Management System (HMS)! This software solution is designed to streamline operations in healthcare facilities. Check out its main components below, each offering customizable features. Dive in and see how it can enhance healthcare management.
 
 ## Main Ports
 
