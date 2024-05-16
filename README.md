@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# Hospital Management System (HMS)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Hospital Management System (HMS) GitHub repository! Our HMS is a robust software solution designed to streamline the operations of healthcare facilities and enhance patient care. Below is an introduction to the main ports of the system, each offering a range of features tailored to specific user roles:
 
-## Available Scripts
+## Main Ports
 
-In the project directory, you can run:
+### Admission
+- **Patient Registration:** Easily register new patients into the system, capturing essential information.
+- **Redirect Patients:** Seamlessly redirect patients to other departments within the hospital as required.
+- **Chat:** Engage in real-time communication with other users for efficient coordination.
+- **View Profile:** Access and manage patient profiles, ensuring accurate and up-to-date information.
+- **Activate Former Patient Status:** Activate former patient status for returning patients, facilitating quicker admissions.
 
-### `npm start`
+### Admin
+- **Overall Control:** Maintain overall control of the system, including configuration and settings.
+- **Report Generation:** Generate comprehensive reports to analyze hospital operations and performance.
+- **Role-Based User Registration and Management:** Register and manage users based on their roles and responsibilities.
+- **Staff Registration and Management:** Register and manage staff members efficiently.
+- **Chat:** Communicate with other users for effective administration and management.
+- **Hospital Operation Follow-Up:** Monitor and follow up on hospital operations to ensure smooth functioning.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### OPD (Outpatient Department)
+- **Patient Symptoms Record:** Record and manage patient symptoms for effective diagnosis and treatment.
+- **Medical History Overview:** Access comprehensive overviews of patient medical history for informed decision-making.
+- **Redirect Patients:** Redirect patients to other departments within the hospital based on their needs.
+- **Create Laboratory and Diagnosis Test Tasks:** Create tasks for laboratory and diagnosis tests to facilitate patient care.
+- **Chat:** Collaborate with other users for efficient patient management.
+- **View Profile:** Access and manage patient profiles easily.
+- **Prescription:** Generate and manage prescriptions for patients.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Pharmacy
+- **Manage Medicines:** Efficiently manage the inventory of medicines within the pharmacy.
+- **Manage Prescribed Medicines:** Manage prescribed medicines, ensuring availability for patients.
+- **Communicate with Finance:** Facilitate communication with the finance department for billing and invoicing.
+- **Chat:** Communicate with other users within the hospital for streamlined operations.
+- **View Profile:** Access and manage pharmacy profiles effortlessly.
 
-### `npm test`
+### Finance
+- **Receive Payments:** Receive payments from patients and other entities seamlessly.
+- **Generate Invoice:** Generate invoices for services provided to patients and other entities.
+- **Chat:** Engage in communication with other users for financial coordination.
+- **View Profile:** Access and manage finance profiles efficiently.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Laboratory
+- **Manage Test Tasks and Records:** Efficiently manage tasks and records within the laboratory.
+- **Chat:** Communicate with other users within the hospital for coordination.
+- **View Profile:** Access and manage laboratory profiles effortlessly.
 
-### `npm run build`
+### Diagnosis
+- **Manage Diagnosis Tasks and Records:** Manage tasks and records related to patient diagnosis efficiently.
+- **Chat:** Engage in communication with other users for streamlined operations.
+- **View Profile:** Access and manage diagnosis profiles easily.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Each port offers a range of features tailored to specific user roles, ensuring efficient hospital management and high-quality patient care. For detailed instructions on using each port and maximizing the benefits of the HMS, please refer to the corresponding sections in this repository.
